@@ -3,3 +3,8 @@
 ################################################################################
 
 /OwnSheetList/.vs/OwnSheetList/v16
+/OwnSheetList/OwnSheetList/obj/OwnSheetList.csproj.nuget.g.targets
+/OwnSheetList/OwnSheetList/obj/OwnSheetList.csproj.nuget.g.props
+/OwnSheetList/OwnSheetList/obj/OwnSheetList.csproj.nuget.dgspec.json
+/OwnSheetList/OwnSheetList/obj/OwnSheetList.csproj.nuget.cache
+/OwnSheetList/OwnSheetList/obj/Debug/netcoreapp3.1
